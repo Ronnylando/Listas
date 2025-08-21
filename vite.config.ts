@@ -5,8 +5,7 @@ import svgr from 'vite-plugin-svgr'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "Listas",
-  plugins: [react(), tailwindcss(), svgr(),   ],
+    plugins: [react(), tailwindcss(), svgr(),   ],
   
 })
 
