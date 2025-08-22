@@ -3,7 +3,6 @@ import PageComponents from "./pages/page-components";
 import LayoutMain from "./pages/layout-main";
 import PageHome from "./pages/page-home";
 
-
 export default function App() {
   return (
     <BrowserRouter>
